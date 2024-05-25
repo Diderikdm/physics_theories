@@ -28,7 +28,7 @@ This document provides a detailed exploration and integration of the speculative
    - The hypothesis posits that a black hole in our universe collapses, and upon reaching a critical threshold, transitions into a white hole-like event, initiating a Big Bang in a new universe. This process involves extreme conditions near the singularity of the black hole, potentially creating a wormhole-like bridge between the two universes.
 
 2. **Einstein-Rosen Bridge (Wormhole)**:
-   - The Wheeler-DeWitt equation describes the quantum state of the universe and can model transitions between different quantum states:
+   - An Einstein-Rosen bridge, or wormhole, theoretically connects a black hole and a white hole. This bridge can be described using the Schwarzschild solution extended to include a white hole region:
    - ![image](https://github.com/Diderikdm/physics_theories/assets/59435489/8b151a6c-d85f-4608-9d3c-01f0d901b355)
 
 
