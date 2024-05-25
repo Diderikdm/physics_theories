@@ -28,10 +28,12 @@ This document provides a detailed exploration and integration of the speculative
    - The hypothesis posits that a black hole in our universe collapses, and upon reaching a critical threshold, transitions into a white hole-like event, initiating a Big Bang in a new universe. This process involves extreme conditions near the singularity of the black hole, potentially creating a wormhole-like bridge between the two universes.
 
 2. **Einstein-Rosen Bridge (Wormhole)**:
-   - ![alt text](image-4.png)
+   - The Wheeler-DeWitt equation describes the quantum state of the universe and can model transitions between different quantum states:
+   - ![alt text](image-1.png)
 
 3. **Quantum Cosmology and Wheeler-DeWitt Equation**:
-   - ![alt text](image-3.png)
+   - The Wheeler-DeWitt equation describes the quantum state of the universe and can model transitions between different quantum states:
+   - ![alt text](image-2.png)
 
 4. **Critical Threshold for Transition**:
    - The critical threshold might involve conditions such as reaching a specific mass-energy density, overcoming certain quantum gravitational effects, or reaching a state of maximal entropy. When this threshold is reached, the singularity might transition into a white hole, initiating the Big Bang of a new universe.
@@ -42,7 +44,8 @@ This document provides a detailed exploration and integration of the speculative
    - The temperature-time theory suggests that temperature influences the flow of time: higher temperatures result in faster passage of time, and absolute zero (0 Kelvin) results in a "frozen" state of time.
 
 2. **Temperature-Dependent Time Dilation**:
-   - ![alt text](image-1.png)
+   - The theory can be expressed using a modified time dilation formula:
+   - ![alt text](image-3.png)
 
 3. **Implications**:
    - High temperatures lead to rapid time flow, while low temperatures slow down time. This relationship affects the dynamics of universe formation and evolution, with high initial temperatures at the Big Bang leading to rapid time flow that slows as the universe cools.
@@ -101,8 +104,8 @@ This document provides a detailed exploration and integration of the speculative
 
 2. **Influence of Temperature on Time**:
    - At the start of the new universe, the extremely high temperatures cause rapid time flow according to the temperature-time theory:
-     ![alt text](image-2.png)
-     As the universe expands and cools, the rate of time passage gradually slows down.
+   - ![alt text](image-4.png)
+   - As the universe expands and cools, the rate of time passage gradually slows down.
 
 3. **Negative Kelvin and Time Reversal**:
    - If certain regions of the new universe reach negative Kelvin temperatures, those regions might experience a reversal in the flow of time. This could create complex dynamics where parts of the universe evolve forward in time while others evolve backward.
