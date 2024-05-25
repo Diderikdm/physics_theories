@@ -1,4 +1,3 @@
-comprehensive_md_content = """
 # Comprehensive Integration and Further Exploration
 
 ## Black Hole Collapse, Big Bang Formation, Temperature-Time Theory, Negative Kelvin, High Entropy Space, and Particle Collisions Creating a Current Time Event
